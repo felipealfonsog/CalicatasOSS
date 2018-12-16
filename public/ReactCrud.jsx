@@ -174,7 +174,7 @@ var StudentAll = React.createClass({
 
                         </table>
                         <br />
-                        Developed by <a href="#">Felipe</a> - Piece of Software Powered by React - Nodejs - Express - MongoDB Technologies. - <a href="#">Source Code</a> -.
+                        Developed by <a href="http://aardvark-labs.us" target="_blank">Felipe</a> - Piece of Software Powered by React - Nodejs - Express - MongoDB Technologies. - <a href="https://github.com/felipealfonsog/CalicatasV0.1.00" target="_blank">Source Code</a> -.
        </div>
                 </form>
 
